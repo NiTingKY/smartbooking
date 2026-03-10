@@ -1,0 +1,5 @@
+npm install vue
+npm install axios
+npm install vue-router
+npm install element-plus
+npm install js-cookie
